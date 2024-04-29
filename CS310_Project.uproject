@@ -12,11 +12,15 @@
 			]
 		},
 		{
-			"Name": "LearningAgents",
+			"Name": "MLAdapter",
 			"Enabled": true
 		},
 		{
-			"Name": "MLAdapter",
+			"Name": "XGEController",
+			"Enabled": false
+		},
+		{
+			"Name": "LearningAgents",
 			"Enabled": true
 		}
 	]
